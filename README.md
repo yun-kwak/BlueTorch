@@ -1,7 +1,7 @@
 # BlueTorch
 
 <p align="center">
-    <img src="bluetorch-icon.png" width="150" height="150">
+    <img src="bluetorch-icon.png" width="120" height="144">
 </p>
 
 A **reverse mode auto-differentiation** library, designed to have intuitive **PyTorch-like** interface,
